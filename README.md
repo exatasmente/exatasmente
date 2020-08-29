@@ -4,6 +4,6 @@ I'm [Luiz Neto](http://linkedin.com/in/exatasmente), a full stack developer from
 - [Rits Tecnologia](http://rits.dev) - BackEnd Developer
 - 🌱 I’m currently learning React, ReactNative
 - 👯 [Progete-Dev - Plataforma Psi ](http://github.com/Progete-Dev) from Federal University of Ceará
-- 📫 You can find me on every social network as @exatasmente or luizneto@rits.com.br
+- 📫 You can find me on every social network as @exatasmente or luizn@alu.ufc.br
 
 ![](https://github.githubassets.com/images/mona-whisper.gif)
