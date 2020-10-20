@@ -8,12 +8,12 @@ I'm [Luiz Neto](http://linkedin.com/in/exatasmente), a full stack developer from
 
 [](https://komarev.com/ghpvc/?username=exatasmente)
 <p align="center">
-  <a href="http://exatasmente.github.io" onClick="alert"(':)')" >
-    <img
-      align="center"
-      height="300"
-      src="https://wakatime.com/share/@exatasmente/66d49539-7066-420b-ae42-72b455ef948a.svg"
-    />
+   <a href="http://exatasmente.github.io" onClick="alert"(':)')">	
+    <img	
+      align="center"	
+      height="165"	
+      src="https://github-readme-stats.vercel.app/api?username=exatasmente&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"	
+    />	
   </a>
 </p>
                                                                                             
