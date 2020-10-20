@@ -15,15 +15,20 @@ I'm [Luiz Neto](http://linkedin.com/in/exatasmente), a full stack developer from
       src="https://wakatime.com/share/@exatasmente/66d49539-7066-420b-ae42-72b455ef948a.svg"
     />
   </a>
-  <a href="http://exatasmente.github.io" onClick="alert"(':)')">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=exatasmente&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
-    />
-  </a>
 </p>
-
+                                                                                            
+```                                                                                   
+           PHP - 27.64% ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+Blade Template - 25.52% ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+    JavaScript - 13.82% ▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+           JSX - 13.78% ▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+          JSON - 10.02% ▓▓▓▓▓▓▓▓▓ 
+         Other -  3.73% ▓▓▓▓ 
+          SCSS -  1.60% ▓▓ 
+           CSS -  1.29% ▓▓ 
+        Vue.js -  1.18% ▓ 
+          YAML -  1.17% ▓ 
+```
 
 
 ### Languages and Tools
