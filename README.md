@@ -57,6 +57,14 @@ I'm [Luiz Neto](http://linkedin.com/in/exatasmente), a full stack developer from
   </a>
   <a href="https://javascript.com/" target="_blank">
     <img
+      src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/php/php-original.svg"
+      alt="php"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://javascript.com/" target="_blank">
+    <img
       src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/javascript/javascript-original.svg"
       alt="docker"
       width="40"
@@ -87,6 +95,15 @@ I'm [Luiz Neto](http://linkedin.com/in/exatasmente), a full stack developer from
       height="40"
     />
   </a>
+  <a href="#">
+    <img
+      src="https://www.logo.wine/a/logo/Dart_(programming_language)/Dart_(programming_language)-Logo.wine.svg"
+      alt="dart"
+      width="40"
+      height="40"
+    />
+  </a>
+  
   <a href="https://vuejs.org" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/vuejs/vuejs-original-wordmark.svg"
