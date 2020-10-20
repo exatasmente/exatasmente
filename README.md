@@ -89,7 +89,7 @@ I'm [Luiz Neto](http://linkedin.com/in/exatasmente), a full stack developer from
   </a>
   <a href="#">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/python/python-original-wordmark.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/python/python-original.svg"
       alt="python"
       width="40"
       height="40"
@@ -97,7 +97,7 @@ I'm [Luiz Neto](http://linkedin.com/in/exatasmente), a full stack developer from
   </a>
   <a href="#">
     <img
-      src="https://www.logo.wine/a/logo/Dart_(programming_language)/Dart_(programming_language)-Logo.wine.svg"
+      src="https://seeklogo.com/images/D/dart-logo-FDA1939EC4-seeklogo.com.png"
       alt="dart"
       width="40"
       height="40"
