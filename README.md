@@ -17,7 +17,8 @@ I'm [Luiz Neto](http://linkedin.com/in/exatasmente), a full stack developer from
   </a>
 </p>
                                                                                             
-```                                                                                   
+```       
+         WAKATIME WEEK 42/2020 - TOP LANGUAGES 
            PHP - 27.64% ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
 Blade Template - 25.52% ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
     JavaScript - 13.82% ▓▓▓▓▓▓▓▓▓▓▓▓▓ 
