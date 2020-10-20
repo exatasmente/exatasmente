@@ -6,7 +6,7 @@ I'm [Luiz Neto](http://linkedin.com/in/exatasmente), a full stack developer from
 - 👯 [Progete-Dev - Plataforma Psi ](http://github.com/Progete-Dev) from Federal University of Ceará
 - 📫 You can find me on every social network as @exatasmente or luizn@alu.ufc.br
 
-
+[](https://komarev.com/ghpvc/?username=exatasmente)
 <p align="center">
   <a href="http://exatasmente.github.io" onClick="alert"(':)')" >
     <img
