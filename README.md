@@ -49,7 +49,7 @@ I'm [Luiz Neto](http://linkedin.com/in/exatasmente), a full stack developer from
   </a>
   <a href="https://nodejs.org/" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/nodejs/nodejs-original-wordmark.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/nodejs/nodejs-original.svg"
       alt="node"
       width="40"
       height="40"
