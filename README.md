@@ -13,10 +13,7 @@ knowledge developing of API Restful and DDD.
 Docker and CI/CD experience, also learning K8's.
 GOlang experience using WebSockets, Gorilla Toolkit, simple HTTP, and goroutines of course.
 
-You can found me in most of social networks as @exatasmente. 
-
 - [Rits Tecnologia](http://rits.dev) - BackEnd Developer
-- 🌱 I’m currently learning React, ReactNative
 - 👯 [Progete-Dev - Plataforma Psi ](http://github.com/Progete-Dev) from Federal University of Ceará
 - 📫 You can find me on every social network as @exatasmente or luizn@alu.ufc.br
 
