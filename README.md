@@ -3,9 +3,10 @@ I'm [Luiz Neto](http://linkedin.com/in/exatasmente), a full stack developer from
 I've begun developing apps with Ionic Framework, also developing websites, plugins, and themes for WordPress most of the time Woocomerce websites.
 
 PHP, Laravel Ecosystem and packages, with Vue.js, Bootstrap, TailwindCss, AlpineJs, and Livewire (TALL Stack ❤️).
+
 I've knowledge of Python, Flask, Django, developing bots, crawlers, and general scripts with AWS lambda functions.
-Learning about microservices and realtime services with GOLang.
-Also developing Flutter apps in free time, and learning React and React-native.
+
+Learning about microservices and realtime services with GOLang, also developing Flutter apps in free time, and learning React and React-native.
 
 - [Rits Tecnologia](http://rits.dev) - BackEnd Developer
 - 👯 [Progete-Dev - Plataforma Psi ](http://github.com/Progete-Dev) from Federal University of Ceará
