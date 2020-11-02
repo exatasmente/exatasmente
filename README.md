@@ -24,21 +24,19 @@ Learning about microservices and realtime services with GOLang, also developing 
 </p>
                                                                                             
 ```       
-         WAKATIME WEEK 42/2020 - TOP LANGUAGES 
-PHP            - 34.71% ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-Blade Template - 21.96% ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-JavaScript     - 11.47% ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-JSON           - 11.08% ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-JSX            - 5.63% ▓▓▓▓▓▓▓▓▓▓▓▓▓
-Other          - 3.98% ▓▓▓▓▓▓▓▓▓
-HTML           - 3.70% ▓▓▓▓▓▓▓▓
-YAML           - 1.64% ▓▓▓▓
-Vue.js         - 1.34% ▓▓▓
-Python         - 1.22% ▓▓▓
-CSS            - 1.19% ▓▓▓
-CSV            - 0.94% ▓▓▓
-SCSS           - 0.93% ▓▓▓
-Git Config     - 0.20% ▓
+         WAKATIME WEEK 45/2020 - TOP LANGUAGES 
+PHP            - 49.77% ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+Blade Template - 24.44% ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+Other          - 6.09% ▓▓▓▓▓▓▓▓▓▓
+SCSS           - 6.01% ▓▓▓▓▓▓▓▓▓▓
+TypeScript     - 4.84% ▓▓▓▓▓▓▓▓
+YAML           - 3.41% ▓▓▓▓▓▓
+JSON           - 2.72% ▓▓▓▓▓
+CSS            - 1.72% ▓▓▓
+XML            - 0.42% ▓
+Docker         - 0.28% ▓
+JavaScript     - 0.20% ▓
+Git Config     - 0.11% ▓
 ```
 
 
