@@ -24,19 +24,23 @@ Learning about microservices and realtime services with GOLang, also developing 
 </p>
                                                                                             
 ```       
-         WAKATIME WEEK 46/2020 - TOP LANGUAGES 
-PHP                      - 52.46% ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-YAML                     - 14.79% ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-Blade Template           - 14.01% ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-Other                    - 8.73% ▓▓▓▓▓▓▓▓▓▓▓▓▓
-JSON                     - 4.85% ▓▓▓▓▓▓▓
-TypeScript               - 1.80% ▓▓▓
-CSV                      - 1.78% ▓▓▓
-Docker                   - 1.32% ▓▓
-XML                      - 0.16% ▓
-Nginx configuration file - 0.07% ▓
-CSS                      - 0.01% ▓
-Git Config               - 0.01% ▓
+         WAKATIME WEEK 47/2020 - TOP LANGUAGES 
+PHP                      - 54.22% ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+TypeScript               - 10.40% ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+YAML                     - 9.34% ▓▓▓▓▓▓▓▓▓▓▓▓▓
+Blade Template           - 8.56% ▓▓▓▓▓▓▓▓▓▓▓▓
+Other                    - 7.84% ▓▓▓▓▓▓▓▓▓▓▓
+SCSS                     - 2.69% ▓▓▓▓
+JSON                     - 1.76% ▓▓▓
+Bash                     - 1.37% ▓▓
+CSV                      - 1.32% ▓▓
+Docker                   - 1.30% ▓▓
+Python                   - 0.52% ▓
+CSS                      - 0.40% ▓
+Markdown                 - 0.14% ▓
+JavaScript               - 0.07% ▓
+XML                      - 0.03% ▓
+Nginx configuration file - 0.02% ▓
 ```
 
 
