@@ -26,7 +26,7 @@ jobs:
       - name: Install dependencies
         run: npm install
       - name: Generate README file
-        run: node index.js ${WAKATIME_URL}
+        run: node index.js "$WAKATIME_URL"
       - name: Commit and Push new README.md to the repository
         uses: mikeal/publish-to-github-action@master
         env:
