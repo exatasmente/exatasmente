@@ -1,0 +1,22 @@
+{
+  "name": "exatasmente",
+  "version": "1.0.0",
+  "description": "I'm [Luiz Neto](http://linkedin.com/in/exatasmente), a full stack developer from Brazil, who mostly works with PHP, JavaScript, Go and Python. I've begun developing apps with Ionic Framework, also developing websites, plugins, and themes for WordPress most of the time Woocomerce websites.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exatasmente/exatasmente.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/exatasmente/exatasmente/issues"
+  },
+  "homepage": "https://github.com/exatasmente/exatasmente#readme",
+  "dependencies": {
+    "mustache": "^4.0.1"
+  }
+}
