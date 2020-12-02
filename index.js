@@ -18,7 +18,7 @@ Date.prototype.getWeekNumber = function(){
   * Notice the "name" and "date" property.
 */
 let DATA = {
-  url : secrets.WAKATIME_URL
+  url : process.argv[process.argv.length - 1],
  };
 
 
