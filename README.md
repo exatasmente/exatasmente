@@ -35,6 +35,9 @@ Text             - 0.55% ▓
 XML              - 0.53% ▓
 Git Config       - 0.52% ▓
 YAML             - 0.48% ▓
+Markdown         - 0.01% ▓
+CSS              - 0.01% ▓
+
 
 ```
 
