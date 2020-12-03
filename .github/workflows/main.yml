@@ -27,8 +27,9 @@ jobs:
         run: npm install
       - name: Generate README file
         run: node index.js "$WAKATIME_URL"
+        env :
+          -  WAKATIME_URL :  ${{secrets.WAKATIME_URL}}
       - name: Commit and Push new README.md to the repository
         uses: mikeal/publish-to-github-action@master
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
-          WAKATIME_URL :  ${{secrets.WAKATIME_URL}}
