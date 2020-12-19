@@ -24,7 +24,7 @@ Learning about microservices and realtime services with GOLang, also developing 
 </p>
 
 ```
-         WAKATIME WEEK 50/2020 - TOP LANGUAGES
+         WAKATIME WEEK 51/2020 - TOP LANGUAGES
 
 PHP            - 71.44% ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 JavaScript     - 15.00% ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
