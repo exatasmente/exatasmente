@@ -26,19 +26,18 @@ Learning about microservices and realtime services with GOLang, also developing 
 ```
          WAKATIME WEEK 52/2020 - TOP LANGUAGES
 
-JavaScript     - 63.77% ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-PHP            - 22.14% ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-Blade Template - 5.79% ▓▓▓▓▓▓▓
-JSON           - 3.99% ▓▓▓▓▓
-Other          - 3.60% ▓▓▓▓▓
-SCSS           - 0.46% ▓
-CSS            - 0.12% ▓
-TypeScript     - 0.05% ▓
+PHP            - 41.93% ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+YAML           - 26.84% ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+Other          - 9.80% ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+Blade Template - 8.84% ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+JSON           - 6.66% ▓▓▓▓▓▓▓▓▓▓▓▓
+JavaScript     - 5.51% ▓▓▓▓▓▓▓▓▓▓
+CSV            - 0.18% ▓
+Markdown       - 0.13% ▓
 Text           - 0.03% ▓
-YAML           - 0.02% ▓
-Markdown       - 0.02% ▓
-Git Config     - 0.01% ▓
-HTML           - 0.01% ▓
+CSS            - 0.03% ▓
+Git Config     - 0.03% ▓
+XML            - 0.01% ▓
 
 
 ```
