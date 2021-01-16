@@ -24,7 +24,7 @@ Learning about microservices and realtime services with GOLang, also developing 
 </p>
 
 ```
-         WAKATIME WEEK 1/2021 - TOP LANGUAGES
+         WAKATIME WEEK 2/2021 - TOP LANGUAGES
 
 PHP            - 77.21% ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 Twig           - 16.51% ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
