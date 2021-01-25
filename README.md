@@ -8,7 +8,7 @@ I've knowledge of Python, Flask, Django, developing bots, crawlers, and general 
 
 Learning about microservices and realtime services with GOLang, also developing Flutter apps in free time, and learning React and React-native.
 
-- [Rits Tecnologia](http://rits.dev) - BackEnd Developer
+- [Makefunnels](https://makefunnels.com.br) - BackEnd Developer
 - 👯 [Progete-Dev - Plataforma Psi ](http://github.com/Progete-Dev) from Federal University of Ceará
 - 📫 You can find me on every social network as @exatasmente or luizn@alu.ufc.br
 
@@ -24,18 +24,12 @@ Learning about microservices and realtime services with GOLang, also developing 
 </p>
 
 ```
-         WAKATIME WEEK 3/2021 - TOP LANGUAGES
+         WAKATIME WEEK 4/2021 - TOP LANGUAGES
 
-PHP            - 91.45% ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-Other          - 6.06% ▓▓▓▓▓
-Markdown       - 1.08% ▓
-YAML           - 0.66% ▓
-XML            - 0.37% ▓
-JSON           - 0.22% ▓
-Git Config     - 0.06% ▓
-JavaScript     - 0.06% ▓
-Ruby           - 0.02% ▓
-SQL            - 0.01% ▓
+PHP            - 98.14% ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+Other          - 0.96% ▓
+XML            - 0.74% ▓
+JSON           - 0.14% ▓
 Blade Template - 0.01% ▓
 
 
