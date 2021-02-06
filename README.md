@@ -14,7 +14,7 @@ Learning about microservices and realtime services with GOLang, also developing 
 
 [](https://komarev.com/ghpvc/?username=exatasmente)
 <p align="center">
-   <a href="http://exatasmente.github.io" onClick="alert"(':)')">
+   <a href="http://exatasmente.github.io" onClick="alert"(';)')">
     <img
       align="center"
       height="165"
@@ -24,13 +24,16 @@ Learning about microservices and realtime services with GOLang, also developing 
 </p>
 
 ```
-         WAKATIME WEEK 4/2021 - TOP LANGUAGES
+         WAKATIME WEEK 5/2021 - TOP LANGUAGES
 
-PHP            - 96.52% ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-Other          - 2.05% ▓▓
-XML            - 1.04% ▓
-Blade Template - 0.26% ▓
-JSON           - 0.13% ▓
+PHP            - 83.96% ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+Other          - 6.81% ▓▓▓▓▓▓▓
+XML            - 3.80% ▓▓▓▓
+Blade Template - 2.74% ▓▓▓
+JSON           - 2.14% ▓▓
+JavaScript     - 0.42% ▓
+HTML           - 0.09% ▓
+Git Config     - 0.04% ▓
 
 
 ```
