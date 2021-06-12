@@ -24,7 +24,7 @@ Learning about microservices and realtime services with GOLang, also developing 
 </p>
 
 ```
-         WAKATIME WEEK 22/2021 - TOP LANGUAGES
+         WAKATIME WEEK 23/2021 - TOP LANGUAGES
 
 PHP            - 88.30% ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 JSON           - 6.57% ▓▓▓▓▓▓
