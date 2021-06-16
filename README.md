@@ -10,7 +10,7 @@ Learning about microservices and realtime services with GOLang, also developing 
 
 - [Makefunnels](https://makefunnels.com.br) - BackEnd Developer
 - 👯 [Progete-Dev - Plataforma Psi ](http://github.com/Progete-Dev) from Federal University of Ceará
-- 📫 You can find me on every social network as @exatasmente or luizn@alu.ufc.br
+- 📫 You can find me on every social network as @exatasmente or luiznetodev@gmail.com
 
 [](https://komarev.com/ghpvc/?username=exatasmente)
 <p align="center">
@@ -24,7 +24,7 @@ Learning about microservices and realtime services with GOLang, also developing 
 </p>
 
 ```
-         WAKATIME WEEK 23/2021 - TOP LANGUAGES
+         WAKATIME WEEK 24/2021 - TOP LANGUAGES
 
 PHP            - 90.18% ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 Blade Template - 3.76% ▓▓▓▓
