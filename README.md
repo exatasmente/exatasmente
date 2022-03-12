@@ -24,19 +24,17 @@ Learning about microservices and realtime services with GOLang, also developing 
 </p>
 
 ```
-         WAKATIME WEEK 9/2022 - TOP LANGUAGES
+         WAKATIME WEEK 10/2022 - TOP LANGUAGES
 
-PHP            - 74.52% ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-Blade Template - 8.42% ▓▓▓▓▓▓▓▓▓
-JavaScript     - 4.24% ▓▓▓▓▓
-Other          - 3.37% ▓▓▓▓
-YAML           - 2.76% ▓▓▓
-CSS            - 2.30% ▓▓▓
-JSON           - 2.23% ▓▓▓
-Bash           - 1.07% ▓▓
-Markdown       - 1.05% ▓▓
-HTML           - 0.02% ▓
-SQL            - 0.02% ▓
+PHP            - 76.23% ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+Blade Template - 7.74% ▓▓▓▓▓▓▓▓
+JavaScript     - 7.15% ▓▓▓▓▓▓▓▓
+CSS            - 5.20% ▓▓▓▓▓▓
+JSON           - 2.03% ▓▓
+YAML           - 1.29% ▓▓
+TypeScript     - 0.21% ▓
+HTML           - 0.08% ▓
+Other          - 0.07% ▓
 
 
 ```
