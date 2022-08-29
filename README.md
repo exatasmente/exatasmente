@@ -8,7 +8,7 @@ I've knowledge of Python, Flask, Django, developing bots, crawlers, and general 
 
 Learning about microservices and realtime services with GOLang, also developing Flutter apps in free time, and learning React and React-native.
 
-- [Makefunnels](https://makefunnels.com.br) - BackEnd Developer
+- [Makefunnels](https://makefunnels.com.br) - Software Engineer
 - 👯 [Progete-Dev - Plataforma Psi ](http://github.com/Progete-Dev) from Federal University of Ceará
 - 📫 You can find me on every social network as @exatasmente or luiznetodev@gmail.com
 
@@ -24,18 +24,18 @@ Learning about microservices and realtime services with GOLang, also developing 
 </p>
 
 ```
-         WAKATIME WEEK 33/2022 - TOP LANGUAGES
+         WAKATIME WEEK 35/2022 - TOP LANGUAGES
 
-PHP                      - 79.68% ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-Other                    - 12.18% ▓▓▓▓▓▓▓▓▓▓▓▓
-YAML                     - 4.06% ▓▓▓▓
-Docker                   - 2.53% ▓▓▓
-Terraform                - 1.15% ▓▓
-CSV                      - 0.21% ▓
-Git Config               - 0.13% ▓
-Nginx configuration file - 0.04% ▓
-JSON                     - 0.02% ▓
-Markdown                 - 0.02% ▓
+PHP            - 67.28% ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+TypeScript     - 15.30% ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+JavaScript     - 11.41% ▓▓▓▓▓▓▓▓▓▓▓▓▓
+Vue.js         - 2.45% ▓▓▓
+YAML           - 1.77% ▓▓
+Blade Template - 1.03% ▓▓
+Other          - 0.33% ▓
+JSON           - 0.19% ▓
+SQL            - 0.13% ▓
+Git Config     - 0.10% ▓
 
 
 ```
