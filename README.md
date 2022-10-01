@@ -26,18 +26,19 @@ Learning about microservices and realtime services with GOLang, also developing 
 ```
          WAKATIME WEEK 39/2022 - TOP LANGUAGES
 
-PHP            - 85.51% ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-Vue.js         - 4.52% ▓▓▓▓
-Terraform      - 3.31% ▓▓▓
-Blade Template - 1.84% ▓▓
-JavaScript     - 1.70% ▓▓
-YAML           - 1.22% ▓▓
-Other          - 1.16% ▓▓
-SQL            - 0.28% ▓
-JSON           - 0.19% ▓
-TypeScript     - 0.19% ▓
-XML            - 0.07% ▓
-Markdown       - 0.02% ▓
+PHP                      - 68.63% ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+Blade Template           - 14.69% ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+JavaScript               - 9.34% ▓▓▓▓▓▓▓▓▓▓▓
+JSON                     - 4.59% ▓▓▓▓▓▓
+Other                    - 1.32% ▓▓
+YAML                     - 0.56% ▓
+Terraform                - 0.24% ▓
+Vue.js                   - 0.23% ▓
+XML                      - 0.21% ▓
+TypeScript               - 0.15% ▓
+CSS                      - 0.01% ▓
+Nginx configuration file - 0.01% ▓
+Git Config               - 0.01% ▓
 
 
 ```
