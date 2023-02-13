@@ -8,8 +8,7 @@ I've knowledge of Python, Flask, Django, developing bots, crawlers, and general 
 
 Learning about microservices and realtime services with GOLang, also developing Flutter apps in free time, and learning React and React-native.
 
-- [Makefunnels](https://makefunnels.com.br) - Software Engineer
-- 👯 [Progete-Dev - Plataforma Psi ](http://github.com/Progete-Dev) from Federal University of Ceará
+- [Loft - Vista](https://github.com/loft-br) - Software Engineer
 - 📫 You can find me on every social network as @exatasmente or luiznetodev@gmail.com
 
 [](https://komarev.com/ghpvc/?username=exatasmente)
@@ -24,7 +23,7 @@ Learning about microservices and realtime services with GOLang, also developing 
 </p>
 
 ```
-         WAKATIME WEEK 6/2023 - TOP LANGUAGES
+         WAKATIME WEEK 7/2023 - TOP LANGUAGES IN PERSONAL PROJECTS
 
 PHP            - 41.32% ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 JavaScript     - 41.12% ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
