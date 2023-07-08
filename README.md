@@ -25,13 +25,12 @@ Learning about microservices and realtime services with GOLang, also developing 
 ```
          WAKATIME WEEK 27/2023 - TOP LANGUAGES IN PERSONAL PROJECTS
 
-PHP        - 78.84% ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-JavaScript - 21.06% ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-JSON       - 0.05% ▓
-Other      - 0.03% ▓
-Git        - 0.01% ▓
-TypeScript - 0.01% ▓
-HTML       - 0.01% ▓
+PHP            - 63.82% ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+Rust           - 17.15% ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+Blade Template - 16.26% ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+Git            - 1.83% ▓▓▓
+TOML           - 0.55% ▓
+JavaScript     - 0.39% ▓
 
 
 ```
