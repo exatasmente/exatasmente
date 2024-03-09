@@ -25,22 +25,23 @@ Learning about microservices and realtime services with GOLang, also developing 
 ```
          WAKATIME WEEK 10/2024 - TOP LANGUAGES IN PERSONAL PROJECTS
 
-PHP                      - 48.45% ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-JavaScript               - 34.97% ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-Other                    - 6.68% ▓▓▓▓▓▓▓▓▓▓▓
-Gherkin                  - 3.76% ▓▓▓▓▓▓
-YAML                     - 1.98% ▓▓▓▓
-Markdown                 - 1.66% ▓▓▓
-Bash                     - 1.08% ▓▓
-JSON                     - 0.39% ▓
-CSS                      - 0.35% ▓
-Git                      - 0.29% ▓
-CSV                      - 0.17% ▓
-Nginx configuration file - 0.07% ▓
-HTML                     - 0.06% ▓
-BrightScript             - 0.05% ▓
-TypeScript               - 0.03% ▓
-Docker                   - 0.01% ▓
+PHP                      - 66.56% ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+JavaScript               - 7.13% ▓▓▓▓▓▓▓▓▓
+SQL                      - 6.90% ▓▓▓▓▓▓▓▓
+Bash                     - 5.83% ▓▓▓▓▓▓▓
+Gherkin                  - 3.65% ▓▓▓▓▓
+Other                    - 3.51% ▓▓▓▓
+YAML                     - 3.07% ▓▓▓▓
+JSON                     - 1.22% ▓▓
+CSS                      - 0.64% ▓
+HTML                     - 0.54% ▓
+Docker                   - 0.27% ▓
+Blade Template           - 0.25% ▓
+Git                      - 0.15% ▓
+Go                       - 0.09% ▓
+Git Config               - 0.09% ▓
+Markdown                 - 0.07% ▓
+TypeScript               - 0.01% ▓
 
 
 ```
