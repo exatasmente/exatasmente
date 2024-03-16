@@ -23,7 +23,7 @@ Learning about microservices and realtime services with GOLang, also developing 
 </p>
 
 ```
-         WAKATIME WEEK 10/2024 - TOP LANGUAGES IN PERSONAL PROJECTS
+         WAKATIME WEEK 11/2024 - TOP LANGUAGES IN PERSONAL PROJECTS
 
 PHP                      - 66.56% ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 JavaScript               - 7.13% ▓▓▓▓▓▓▓▓▓
