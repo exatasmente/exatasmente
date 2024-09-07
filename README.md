@@ -23,7 +23,7 @@ Learning about microservices and realtime services with GOLang, also developing 
 </p>
 
 ```
-         WAKATIME WEEK 35/2024 - TOP LANGUAGES IN PERSONAL PROJECTS
+         WAKATIME WEEK 36/2024 - TOP LANGUAGES IN PERSONAL PROJECTS
 
 
 
